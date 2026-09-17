@@ -1,11 +1,12 @@
-LK & Partners — three requested fixes only
+LK & Partners FINAL LOCKED build
 
-1. Header logo replaced with the approved earlier logo/wordmark as a fixed image asset.
-2. Hero uses the approved mug/city composition with the mug positioned on the right.
-3. Testimonial photographs are centred in each testimonial card.
+Baseline: the exact version that produced the user's 'so close' screenshot.
+Only these changes are applied:
+1. Hero image asset replaced so mug is visible to the right; hero layout/CSS dimensions untouched.
+2. Existing header structure retained; only the infinity mark styling is refined.
+3. Testimonial card/grid structure retained; only the photo alignment inside its existing slot is centred.
 
-Everything else is retained from the 'so close' website build.
+No other HTML layout, spacing, typography, service cards, testimonial structure, proof section or footer changes.
 
 UPLOAD:
-Unzip this file. Upload ALL contents to the ROOT of your GitHub Pages repository,
-including the assets folder. Replace existing files when prompted.
+Unzip and upload ALL contents to the root of the GitHub Pages repository, replacing existing files and the assets folder.
