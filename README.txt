@@ -1,1 +1,11 @@
-Upload ALL files and the assets folder inside this folder to the ROOT of the GitHub Pages repository. index.html and styles.css must be at repository root.
+LK & Partners — three requested fixes only
+
+1. Header logo replaced with the approved earlier logo/wordmark as a fixed image asset.
+2. Hero uses the approved mug/city composition with the mug positioned on the right.
+3. Testimonial photographs are centred in each testimonial card.
+
+Everything else is retained from the 'so close' website build.
+
+UPLOAD:
+Unzip this file. Upload ALL contents to the ROOT of your GitHub Pages repository,
+including the assets folder. Replace existing files when prompted.
